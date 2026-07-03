@@ -297,12 +297,6 @@ Through this project, I gained hands-on experience with:
 
 Java Backend Developer
 
-GitHub: https://github.com/your-github-username
-
-LinkedIn: https://linkedin.com/in/your-linkedin-profile
-
-Email: your-email@example.com
-
 ---
 
 ⭐ If you found this project useful, don't forget to Star this repository.
