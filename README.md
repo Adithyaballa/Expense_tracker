@@ -1,6 +1,3 @@
-# Expense_tracker
-The Expense Tracker Application is a comprehensive solution designed to help users manage their finances efficiently by tracking expenses across different categories.
-
 # 💰 Expense Tracker Application
 
 A backend RESTful web application developed using **Java** and **Spring Boot** that helps users efficiently manage their daily expenses by organizing them into categories. The application provides secure and scalable REST APIs for performing CRUD operations on expenses and categories while implementing proper exception handling and API documentation.
